@@ -1,0 +1,27 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "Stephen Wong",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "node": "^14.17.4",
+        "util": "^0.12.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/StephenWong-GIT"
+    },
+    "bugs": {
+        "url": "https://github.com/StephenWong-GIT"
+    },
+    "homepage": "https://github.com/StephenWong-GIT",
+    "devDependencies": {
+        "jest": "^27.0.6"
+    }
+}
